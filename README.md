@@ -318,7 +318,7 @@
 
 - [WIKI](https://github.com/lejianwen/rustdesk-api/wiki)
 - [链接超时问题](https://github.com/lejianwen/rustdesk-api/issues/92)
-- [客户端 1.4.8+/1.5.x 登录后无法连接的适配](./docs/rustdesk-1.5-clients.md)
+- [客户端 1.4.7+ 登录后无法连接：根因与部署方案](./docs/rustdesk-1.5-clients.md)
 - [修改客户端ID](https://github.com/abdullah-erturk/RustDesk-ID-Changer)
 - [webclient来源](https://hub.docker.com/r/keyurbhole/flutter_web_desk)
 
